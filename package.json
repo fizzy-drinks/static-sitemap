@@ -6,5 +6,8 @@
   "repository": "https://github.com/gabrielchiconi/static-sitemap",
   "author": "Gabriel Chiconi <gabriel@lins.dev>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "bin": {
+    "static-sitemap": "./index.js"
+  }
 }
