@@ -1,0 +1,10 @@
+{
+  "name": "static-sitemap",
+  "version": "0.1.0",
+  "description": "Generate sitemaps from static folders",
+  "main": "index.js",
+  "repository": "https://github.com/gabrielchiconi/static-sitemap",
+  "author": "Gabriel Chiconi <gabriel@lins.dev>",
+  "license": "MIT",
+  "private": false
+}
